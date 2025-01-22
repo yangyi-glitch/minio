@@ -1,0 +1,8 @@
+com\minio\console\ConsoleApplication.class
+com\minio\console\controller\FileController.class
+com\minio\console\service\file\FileServiceImpl.class
+com\minio\console\service\minio\MinioService.class
+com\minio\console\service\minio\MinioServiceImpl.class
+com\minio\console\service\file\FileService.class
+com\minio\console\config\MinioConfig.class
+com\minio\console\entity\FileDTO.class
